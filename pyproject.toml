@@ -1,6 +1,6 @@
 [project]
 name = "ocr-fix"
-version = "0.1.0"
+version = "2025.7.21.1"
 description = "add data dir for ocr models in pyinstaller spec"
 
 readme = "README.md"
